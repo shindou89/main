@@ -1,10 +1,10 @@
 {
 	"people": [{
-		"firstname": "John",
+		"firstName": "John",
 		"lastName": "Smith",
 		"age": 40
 	}, {
-		"firstname": "John",
+		"firstName": "John",
 		"lastName": "Smith",
 		"age": 40
 	}],
