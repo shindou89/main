@@ -1,20 +1,20 @@
 {
 	"people": [{
-		"firstName": "John",
-		"lastName": "Smith",
-		"age": 40
+		"first": "Mike",
+		"last": "Smith",
+		"age": 30
 	}, {
-		"firstName": "John",
-		"lastName": "Smith",
+		"first": "Jane",
+		"last": "Doe",
+		"age": 20
+	}, {
+		"first": "John",
+		"last": "Smithy",
 		"age": 40
 	}],
 	"places": [{
-		"location": "Belgium",
-		"lat": 87,
-		"long": 140
+		"location": "Toronto"
 	}, {
-		"location": "New York",
-		"lat": 87,
-		"long": 99
+		"location": "New York"
 	}]
 }
