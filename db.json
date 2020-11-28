@@ -1,174 +1,20 @@
 {
-	"results": [{
-		"gender": "female",
-		"name": {
-			"title": "Mrs",
-			"first": "Katrine",
-			"last": "Jensen"
-		},
-		"location": {
-			"street": {
-				"number": 6364,
-				"name": "Maglehøjvej"
-			},
-			"city": "Sommersted",
-			"state": "Nordjylland",
-			"country": "Denmark",
-			"postcode": 50168,
-			"coordinates": {
-				"latitude": "-34.0932",
-				"longitude": "160.6944"
-			},
-			"timezone": {
-				"offset": "+7:00",
-				"description": "Bangkok, Hanoi, Jakarta"
-			}
-		},
-		"email": "katrine.jensen@example.com",
-		"login": {
-			"uuid": "735da8c8-796d-41ac-80e5-21b5ebc7c1e1",
-			"username": "greencat182",
-			"password": "trip",
-			"salt": "Mx1dNVab",
-			"md5": "a830d72cd25537b15060a619af22df9f",
-			"sha1": "2e22d9048eaf7fecbcc58fcc9635957dc4d8a2cb",
-			"sha256": "97beecc2921c17e4e315f5c054c903409ef2530eebf3db030bbb7710b1791faa"
-		},
-		"dob": {
-			"date": "1984-08-18T08:02:30.175Z",
-			"age": 36
-		},
-		"registered": {
-			"date": "2008-06-11T04:13:58.953Z",
-			"age": 12
-		},
-		"phone": "77470803",
-		"cell": "32462034",
-		"id": {
-			"name": "CPR",
-			"value": "180884-1075"
-		},
-		"picture": {
-			"large": "https://randomuser.me/api/portraits/women/87.jpg",
-			"medium": "https://randomuser.me/api/portraits/med/women/87.jpg",
-			"thumbnail": "https://randomuser.me/api/portraits/thumb/women/87.jpg"
-		},
-		"nat": "DK"
+	"people": [{
+		"firstname": "John",
+		"lastName": "Smith",
+		"age": 40
 	}, {
-		"gender": "male",
-		"name": {
-			"title": "Mr",
-			"first": "Sebastian",
-			"last": "Taylor"
-		},
-		"location": {
-			"street": {
-				"number": 5327,
-				"name": "Queenstown Road"
-			},
-			"city": "Masterton",
-			"state": "Waikato",
-			"country": "New Zealand",
-			"postcode": 23390,
-			"coordinates": {
-				"latitude": "-21.7159",
-				"longitude": "-59.0720"
-			},
-			"timezone": {
-				"offset": "-5:00",
-				"description": "Eastern Time (US & Canada), Bogota, Lima"
-			}
-		},
-		"email": "sebastian.taylor@example.com",
-		"login": {
-			"uuid": "37b30562-1b9d-41eb-88b6-d2196fcb739d",
-			"username": "smallduck693",
-			"password": "mercer",
-			"salt": "hJx9VQBo",
-			"md5": "98852514862e2fe5872c3f2864e74012",
-			"sha1": "54fd12e5e8df45375d9d39e66ce395422e44cc01",
-			"sha256": "10a0a5c669059076c099ee6cff572d0146f2e9c754b6268b1a5cf3f8bd9172e4"
-		},
-		"dob": {
-			"date": "1953-04-10T00:36:33.758Z",
-			"age": 67
-		},
-		"registered": {
-			"date": "2005-07-26T02:18:45.654Z",
-			"age": 15
-		},
-		"phone": "(443)-906-2012",
-		"cell": "(637)-424-0372",
-		"id": {
-			"name": "",
-			"value": null
-		},
-		"picture": {
-			"large": "https://randomuser.me/api/portraits/men/49.jpg",
-			"medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
-			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
-		},
-		"nat": "NZ"
-	}, {
-		"gender": "female",
-		"name": {
-			"title": "Mrs",
-			"first": "Iwona",
-			"last": "Israel"
-		},
-		"location": {
-			"street": {
-				"number": 6355,
-				"name": "Im Winkel"
-			},
-			"city": "Fürstenau",
-			"state": "Schleswig-Holstein",
-			"country": "Germany",
-			"postcode": 74883,
-			"coordinates": {
-				"latitude": "-53.3667",
-				"longitude": "57.2322"
-			},
-			"timezone": {
-				"offset": "+5:00",
-				"description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
-			}
-		},
-		"email": "iwona.israel@example.com",
-		"login": {
-			"uuid": "237775e0-9403-44a5-8747-05b44c765ba6",
-			"username": "beautifulzebra468",
-			"password": "monica",
-			"salt": "lG6lDwY6",
-			"md5": "58cea4cbfff688577b942521d280447c",
-			"sha1": "be8747d3cda3ef979117157ca185a03cb3228234",
-			"sha256": "134014532718d2585218c18f84f676c698d3f32ecfd36ef9633b5091089b784f"
-		},
-		"dob": {
-			"date": "1989-07-13T12:54:39.739Z",
-			"age": 31
-		},
-		"registered": {
-			"date": "2014-07-13T05:12:09.478Z",
-			"age": 6
-		},
-		"phone": "0569-7304757",
-		"cell": "0177-4300512",
-		"id": {
-			"name": "",
-			"value": null
-		},
-		"picture": {
-			"large": "https://randomuser.me/api/portraits/women/28.jpg",
-			"medium": "https://randomuser.me/api/portraits/med/women/28.jpg",
-			"thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
-		},
-		"nat": "DE"
+		"firstname": "John",
+		"lastName": "Smith",
+		"age": 40
 	}],
-	"info": {
-		"seed": "ab04ac010200efd2",
-		"results": 3,
-		"page": 1,
-		"version": "1.3"
-	}
+	"places": [{
+		"location": "Belgium",
+		"lat": 87,
+		"long": 140
+	}, {
+		"location": "New York",
+		"lat": 87,
+		"long": 99
+	}]
 }
